@@ -1,0 +1,8 @@
+syscalls.c:6:5:_close	16	static
+syscalls.c:10:5:_fstat	16	static
+syscalls.c:14:5:_isatty	16	static
+syscalls.c:18:5:_lseek	24	static
+syscalls.c:22:5:_open	24	static
+syscalls.c:26:5:_read	24	static
+syscalls.c:33:9:_sbrk_r	24	static
+syscalls.c:65:5:_write	32	static

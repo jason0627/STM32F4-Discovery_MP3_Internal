@@ -1,0 +1,2 @@
+assembly.h:323:23:MULSHIFT32	24	static
+dct32.c:142:6:xmp3fixpt_FDCT32	136	static
